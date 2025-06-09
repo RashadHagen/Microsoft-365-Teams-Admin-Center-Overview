@@ -1,11 +1,11 @@
-<h1>Microsoft 365  – Admin Center – Teams Tab Overview</h1>
+<h1>Microsoft 365  – Teams Admin Center – Overview</h1>
 
 
 <h2 style="font-family: Arial, sans-serif; font-size: 20px; font-weight: bold; margin-top: 24px; margin-bottom: 12px;">
 ⏹️ Description</h2>
 
 <p style="font-family: Georgia, serif; font-size: 16px; margin-top: 12px; margin-bottom: 12px;">
-This project goes over Microsoft 365 Admin Center’s Teams tab. The Microsoft Admin Center’s Teams tab is a portal where administrators can manage and configure Teams for their organization. It allows admins to control various aspects of Teams, including user access, policies, app management, and calling features.
+This project goes over Microsoft 365 Teams Admin Center. The Teams Admin Center is a portal where administrators can manage and configure Teams for their organization. It allows admins to control various aspects of Teams, including user access, policies, app management, and calling features.
 </b>
 
 
