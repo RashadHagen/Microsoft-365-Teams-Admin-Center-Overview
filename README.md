@@ -130,3 +130,159 @@ This project goes over Microsoft 365 Admin Center’s Teams tab. The Microsoft A
 <br /><br />
 
 
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Users tab.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/fBF3q7h.png" height="100%" width="100%" /></td>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Teams devices tab.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/LkbJMZv.png" height="100%" width="100%" /></td>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Teams apps tab.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/vgc57p3.png" height="100%" width="100%" /></td>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Meetings tab.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/lYdG9La.png" height="100%" width="100%" /></td>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Messaging tab.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/20UqyCG.png" height="100%" width="100%" /></td>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Messaging tab.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/yf8xz0V.png" height="100%" width="100%" /></td>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Locations tab.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/upmL3qA.png" height="100%" width="100%" /></td>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Frontline deployment tab.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/Fjjzkoi.png" height="100%" width="100%" /></td>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Enhanced encryption tab.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/eTMdLnh.png" height="100%" width="100%" /></td>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Policy packages tab.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/sagNNcC.png" height="100%" width="100%" /></td>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Planning tab.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/eQxFvVH.png" height="100%" width="100%" /></td>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Analytics and reports tab.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/v1It2by.png" height="100%" width="100%" /></td>
+</table>
+
+<br /><br />
+
+
+<div style="text-align:center;">
+  <span style="font-family: Arial, sans-serif; font-size: 16px;"><b>Notifications and alerts tab.</b></span>  
+<br/>
+
+<table>
+  <tr>
+    <td><img src="https://imgur.com/odd2M48.png" height="100%" width="100%" /></td>
+</table>
+
+<br /><br />
+
+
